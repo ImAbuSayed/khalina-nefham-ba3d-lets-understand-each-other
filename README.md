@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي تعال في حضني الليلة
+> قلبي ينادي من غير حيلة
+> نار الشوق تكوي الروح
+> خلينا نفهم بعض وتشفى الجروح
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
