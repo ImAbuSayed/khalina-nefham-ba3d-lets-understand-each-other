@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/khalina-nefham-ba3d-lets-understand-each-other/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for Khalina Nefham Ba3d – Let’s understand each other](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
